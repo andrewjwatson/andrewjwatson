@@ -1,5 +1,3 @@
-# About me
-
 # 👋 Hi there, I'm Andrew
 
 I'm a BSc (Honours) Computing and IT student at The Open University (course code: Q62).
