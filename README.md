@@ -1,16 +1,24 @@
-## Hi there 👋
+# About me
 
-<!--
-**andrewjwatson/andrewjwatson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Andrew
 
-Here are some ideas to get you started:
+I'm a BSc (Honours) Computing and IT student at The Open University (course code: Q62).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+- Web technologies (TM252)
+- Object-oriented design using Java (M250)
+- Cyber security principles and practices (TM256)
+- Algorithmic thinking and data structures (M269)
+
+## 🧠 Interests
+- Software Engineering
+- Web Technologies (Full Stack)
+- Machine Learning & AI (TM358 soon!)
+- Cyber Security & Pen Testing
+
+## 📫 Let's Connect
+- 📍 Based in the UK
+- 📧 andrew.watson.dev@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/andrewjwatson1996/)
+
+Thanks for visiting!
